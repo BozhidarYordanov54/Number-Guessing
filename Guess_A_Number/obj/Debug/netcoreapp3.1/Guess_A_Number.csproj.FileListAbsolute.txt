@@ -1,0 +1,14 @@
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\bin\Debug\netcoreapp3.1\Guess_A_Number.exe
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\bin\Debug\netcoreapp3.1\Guess_A_Number.deps.json
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\bin\Debug\netcoreapp3.1\Guess_A_Number.runtimeconfig.json
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\bin\Debug\netcoreapp3.1\Guess_A_Number.runtimeconfig.dev.json
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\bin\Debug\netcoreapp3.1\Guess_A_Number.dll
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\bin\Debug\netcoreapp3.1\Guess_A_Number.pdb
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.csproj.AssemblyReference.cache
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.AssemblyInfoInputs.cache
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.AssemblyInfo.cs
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.csproj.CoreCompileInputs.cache
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.dll
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.pdb
+D:\Free lance exercises\Guess_A_Number\Guess_A_Number\obj\Debug\netcoreapp3.1\Guess_A_Number.genruntimeconfig.cache
